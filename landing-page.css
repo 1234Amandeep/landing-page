@@ -1,0 +1,361 @@
+.bg-img1 {
+    background-image: url('black-background.jpg');
+    min-height: 100%;
+}
+
+.padding-main-header {
+    padding-bottom: 39em;
+    padding-top: 20%;
+}
+
+.padding-main-header-neg {
+    margin: -23.70px -23px 0px -23px;
+
+}
+
+.color-main-header {
+    color: white;
+}
+
+
+.setting-header-center {
+    text-align: center;
+}
+
+.font-styling {
+    font-size: 2.5em;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+
+}
+
+.product-img-flex {
+    flex-grow: 0;
+    flex-shrink: 3;
+    flex-basis: 800px;
+}
+
+.product-des-flex {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 400px;
+}
+
+img {
+    padding-top: 4em;
+    padding-left: 4em;
+}
+
+.stock-left {
+    padding: 16px 0px 10px 30px;
+    color: black;
+    font-size: 22px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    padding: 8px;
+    color: #f9f9f9;
+}
+
+.dropdown-margin {
+    margin-left: 30px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #067D62;
+    min-width: 122px;
+    padding: 12px 16px;
+    box-shadow: 0px 8px 16px 6px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    cursor: pointer;
+
+}
+
+.size-selector-font {
+    font-size: 20px;
+}
+
+.dropdown-bc {
+    background-color: black;
+}
+
+.dropdown-content a:hover {
+    background-color: #f9f9f9;
+}
+
+.product-pricing-padding {
+    padding: 0px 0px 0px 0px;
+    background-color: #51c2c2;
+    color: black;
+}
+
+.product-pricing-margin {
+    margin-left: 635px;
+    
+}
+
+.product-pricing-font-size {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.youtube-embeded-video-padding {
+    padding-top: 200px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    padding-right: 30px;
+}
+
+main {
+    background-image: url('light-blue-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px -23px 0px -23px;
+}
+
+.font-icons-padding {
+    padding: 200px 0px 200px 750px;
+}
+
+.fa {
+    padding: 10px;
+    margin: 5px 10px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    color: white;
+    background: #3B5998;
+}
+
+.fa-twitter {
+    background: #55ACEE ;
+    color: white;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+
+}
+
+.container1-padding {
+    padding: 200px;
+}
+
+.icon1-order {
+    order: 2;
+}
+
+.icon2-order {
+    order: 3;
+}
+
+.icon3-order {
+    order: 4;
+}
+
+.icon4-order {
+    order: 1;
+}
+
+.padding-left{
+    padding-right: 150px;
+}
+
+.font-size-family {
+    font-size: 22px;
+}
+
+.hover-over:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    margin: 0px -23px 0px -23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
